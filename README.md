@@ -1,5 +1,7 @@
 # DataVisualization
-Visualize the data using D3 heatmaps.
+Visualize the data using D3 heatmaps
+
+![alt text](https://github.com/singhshraddha/DataVisualization/blob/master/heatmap.PNG)
 
 To develop or view open a local host server:
 python -m http.server
